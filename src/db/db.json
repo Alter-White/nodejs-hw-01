@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Otis Ondricka",
+    "phone": "484.901.4463 x7105",
+    "email": "Rose57@hotmail.com",
+    "job": "Lead Program Consultant"
+  },
+  {
+    "name": "Darrell Weber",
+    "phone": "(316) 766-5065 x344",
+    "email": "Jammie.Funk@hotmail.com",
+    "job": "Principal Optimization Specialist"
+  },
+  {
+    "name": "Lindsay Botsford-Dickens",
+    "phone": "(951) 698-4558 x0904",
+    "email": "Savanna_Robel37@hotmail.com",
+    "job": "International Creative Liaison"
+  },
+  {
+    "name": "Leslie Ratke",
+    "phone": "(485) 481-3226 x832",
+    "email": "Fritz74@yahoo.com",
+    "job": "International Functionality Designer"
+  },
+  {
+    "name": "Dale Brakus",
+    "phone": "776.391.7017",
+    "email": "Boris.Cassin@yahoo.com",
+    "job": "Customer Mobility Designer"
+  }
+]
